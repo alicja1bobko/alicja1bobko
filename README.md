@@ -4,7 +4,8 @@ I'm a Frontend Developer from Poland. I love learning new things everyday, tryin
 
 Before I dived into programming and discovered it as my new passion, I've done many things which led me to this point, some of them are still ongoing journeys:
 
-:bulb: &nbsp; working as a Lighting Designer <br>
+<p>
+:bulb: "&nbsp; working as a Lighting Designer" <br>
 🤖 &nbsp; studying Robotics and Electrotechnics <br>
 :art: &nbsp; drawing and painting <br>
 :v: &nbsp; yoga <br>
@@ -14,7 +15,7 @@ Before I dived into programming and discovered it as my new passion, I've done m
 :guitar: &nbsp; playing classical guitar <br>
 :bike: &nbsp; discovering my city from different perspective <br>
 :swimmer: &nbsp; swimming section at the University <br>
-
+</p>
 ### Stack
 
 <p align="left">
