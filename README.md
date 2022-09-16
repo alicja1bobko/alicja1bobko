@@ -8,16 +8,16 @@ Before I dived into programming and discovered it as my new passion, I've done m
 🤖 studying Robotics and Electrotechnics <br>
 :art: drawing and painting <br>
 :v: yoga <br>
-👩‍🍳 cooking addict
+👩‍🍳 cooking addict <br>
 :earth_africa: ecology and living sustainable lifestyle <br>
 :mouse: owner of 2 gerbils <br>
 :guitar: playing classical guitar <br>
 :swimmer: swimming section at the University <br>
 
-<hr>
-
 ## Stack
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg></img></a>
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></img></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></img></a>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="javascript logo" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></img></a>
+<a href="https://www.typescriptlang.org/"><img alt="typescript logo" width="40" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></img></a>
+<a href="https://reactjs.org/"><img alt="react logo" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></img></a>
+</p>
