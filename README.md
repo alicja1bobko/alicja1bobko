@@ -3,19 +3,18 @@
 I'm a Frontend Developer from Poland. I love learning new things everyday, trying to make Internet more beautifull.
 
 Before I dived into programming and discovered it as my new passion, I've done many things which led me to this point, some of them are still ongoing journeys:
-
-<p>
-:bulb: "&nbsp; working as a Lighting Designer" <br>
+ 
+💡 &nbsp; working as a Lighting Designer <br>
 🤖 &nbsp; studying Robotics and Electrotechnics <br>
-:art: &nbsp; drawing and painting <br>
-:v: &nbsp; yoga <br>
+🎨 &nbsp; drawing and painting <br>
+☮️ &nbsp; yoga <br>
 👩‍🍳 &nbsp; cooking addict <br>
-:earth_africa: &nbsp; ecology and living sustainable lifestyle <br>
-:mouse: &nbsp; owner of 2 gerbils <br>
-:guitar: &nbsp; playing classical guitar <br>
-:bike: &nbsp; discovering my city from different perspective <br>
-:swimmer: &nbsp; swimming section at the University <br>
-</p>
+🌍 &nbsp; ecology and living sustainable lifestyle <br>
+🐭 &nbsp; owner of 2 gerbils <br>
+🎸 &nbsp; playing classical guitar <br>
+🚴‍♀️ &nbsp; discovering my city from different perspective <br>
+🏊‍♀️ &nbsp; swimming section at the University <br>
+
 ### Stack
 
 <p align="left">
