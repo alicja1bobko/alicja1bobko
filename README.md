@@ -5,15 +5,15 @@ I'm a Frontend Developer from Poland. I love learning new things everyday, tryin
 Before I dived into programming and discovered it as my new passion, I've done many things which led me to this point, some of them are still ongoing journeys:
 
 :bulb: &nbsp; working as a Lighting Designer <br>
-🤖 studying Robotics and Electrotechnics <br>
-:art: drawing and painting <br>
-:v: yoga <br>
-👩‍🍳 cooking addict <br>
-:earth_africa: ecology and living sustainable lifestyle <br>
-:mouse: owner of 2 gerbils <br>
-:guitar: playing classical guitar <br>
-:bike: discovering my city from different perspective <br>
-:swimmer: swimming section at the University <br>
+🤖 &nbsp; studying Robotics and Electrotechnics <br>
+:art: &nbsp; drawing and painting <br>
+:v: &nbsp; yoga <br>
+👩‍🍳 &nbsp; cooking addict <br>
+:earth_africa: &nbsp; ecology and living sustainable lifestyle <br>
+:mouse: &nbsp; owner of 2 gerbils <br>
+:guitar: &nbsp; playing classical guitar <br>
+:bike: &nbsp; discovering my city from different perspective <br>
+:swimmer: &nbsp; swimming section at the University <br>
 
 ### Stack
 
