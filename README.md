@@ -20,7 +20,7 @@ Before I dived into programming and discovered it as my new passion, I've done m
 <div align="center">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="html logo" width="50" height="50" src="https://www.svgrepo.com/show/183637/html5.svg"></img></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="html logo" width="50" height="50" src=https://img-resize-cdn.joshmartin.ch/768x0,c3537b9f46b5f6055fbc8b4cd03b6b2cc63fc2eefd3d8cd9f0c9f99a5933e496/https://cdn.joshmartin.ch/app/uploads/2017/10/css3.svg></img></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="html logo" width="50" height="50" src="https://juststickers.in/wp-content/uploads/2014/05/CSS3-Mark-Shape-Cut.png"></img></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="javascript logo" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></img></a>
 <a href="https://www.typescriptlang.org/"><img alt="typescript logo" width="50" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></img></a>
 <a href="https://reactjs.org/"><img alt="react logo" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></img></a>
