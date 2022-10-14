@@ -29,7 +29,7 @@ Before I dived into programming and discovered it as my new passion, I've done m
 
 <h2 align="center">Currently learning</h2>
 <div align="center">
- 
+</div>
  <ul>
   <li>Exploring further TypeScript</li>
   <li>Testing with Jest</li>
