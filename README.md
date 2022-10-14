@@ -25,3 +25,14 @@ Before I dived into programming and discovered it as my new passion, I've done m
 <a href="https://www.typescriptlang.org/"><img alt="typescript logo" width="50" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></img></a>
 <a href="https://reactjs.org/"><img alt="react logo" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></img></a>
 </div>
+
+
+<h2 align="center">Currently learning</h2>
+<div align="center">
+ 
+ <ul>
+  <li>Exploring further TypeScript</li>
+  <li>Testing with Jest</li>
+  <li>Accesibility</li>
+  <li>Redux with Firebase</li>
+ </ul>
