@@ -33,6 +33,6 @@ Before I dived into programming and discovered it as my new passion, I've done m
  <ul>
   <li>Exploring further TypeScript</li>
   <li>Testing with Jest</li>
-  <li>Accesibility</li>
-  <li>Redux with Firebase</li>
+  <li>Firebase</li>
+  <li>Redux </li>
  </ul>
