@@ -32,7 +32,10 @@ Before I dived into programming and discovered it as my new passion, I've done m
 </div>
  <ul>
   <li>Exploring further TypeScript</li>
-  <li>Testing with Jest</li>
+  <li>Testing</li>
   <li>Firebase</li>
   <li>Redux </li>
+  <li>Material UI </li>
+  <li>Next.js </li>
+ <li>JS & React Patterns</li>
  </ul>
