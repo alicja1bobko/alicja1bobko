@@ -3,15 +3,15 @@
 </div>
 
 I'm a Junior Frontend Developer from Poland. I love learning new things and being challenged everyday.
-Before I dived into programming and discovered it as my new passion, I've done many things which led me to this point, some of them are still ongoing journeys:
+Before I dived into programming I've done many things which led me to this point, some of them are still ongoing journeys:
  
 💡  &nbsp;&nbsp; working as a Lighting Designer <br>
 🤖 &nbsp; studying Robotics and Electrotechnics <br>
+🏠  &nbsp; interior design <br>
 🎨 &nbsp; drawing and painting <br>
 ☮️ &nbsp; yoga <br>
 👩‍🍳 &nbsp; cooking addict <br>
 🌍 &nbsp; ecology and living sustainable lifestyle <br>
-🐭 &nbsp; owner of 2 gerbils <br>
 🎸 &nbsp; playing classical guitar <br>
 🚴‍♀️ &nbsp; discovering my city from different perspective <br>
 🏊‍♀️ &nbsp; swimming section at the University <br>
@@ -33,11 +33,9 @@ Before I dived into programming and discovered it as my new passion, I've done m
 <div align="center">
 </div>
  <ul>
-  <li>Exploring further TypeScript</li>
   <li>Testing</li>
   <li>Firebase</li>
   <li>Redux </li>
   <li>Material UI </li>
-  <li>Next.js </li>
  <li>JS & React Patterns</li>
  </ul>
