@@ -33,9 +33,9 @@ Before I dived into programming I've done many things which led me to this point
 <div align="center">
 </div>
  <ul>
+  <li>Java</li>
+  <li>Hibernate</li>
+  <li>Spring</li>
   <li>Testing</li>
-  <li>Firebase</li>
   <li>Redux </li>
-  <li>Material UI </li>
- <li>JS & React Patterns</li>
  </ul>
